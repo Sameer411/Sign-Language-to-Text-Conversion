@@ -33,4 +33,4 @@ Deep Learning Assignment for conversion of American Sign Language to Text format
 # Images of Project
 Image 1) Login Page
 
-![](images/login_page.png)
+![](images/Frontend.png)
