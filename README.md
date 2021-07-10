@@ -31,6 +31,6 @@ Deep Learning Assignment for conversion of American Sign Language to Text format
 5) After Predicting all characters it will be shifted in front of word and if blank screen continues it will be shifted in front of sentence.
 
 # Images of Project
-Image 1) Login Page
+Image 1) Sign Language Conversion Portal Home Page
 
 ![](Documentation/Images/Frontend.png)
